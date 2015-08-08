@@ -16,7 +16,7 @@ namespace simotest
         {
             int x = 0;
             InitializeComponent();
-            var c = x - 2;
+            var c = x - 4;
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
