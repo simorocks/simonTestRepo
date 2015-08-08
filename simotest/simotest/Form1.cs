@@ -14,6 +14,7 @@ namespace simotest
     {
         public Form1()
         {
+            int x = 0;
             InitializeComponent();
         }
     }
