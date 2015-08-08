@@ -16,5 +16,10 @@ namespace simotest
         {
             InitializeComponent();
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            MessageBox.Show("hi there");
+        }
     }
 }
